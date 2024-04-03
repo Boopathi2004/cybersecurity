@@ -31,3 +31,14 @@ WEB PAGE
 WEB APPLICATION 
 WEB SERVER
 WEBSITE = USER INTERACTION IS CALLED WEBSITE
+
+@echo off 
+start mspoint
+start cmd
+start powershell
+start calc
+
+step 1;
+powershell
+step 2;
+ipconfig
