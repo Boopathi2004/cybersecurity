@@ -1,4 +1,3 @@
-#useful commands
 cmd -whwre: shows location.
     -/../: going back to directory
 mkdir- make directory(new folder)
@@ -15,8 +14,8 @@ vpn- encrypt the connection b/w client and server
 vp creates tunnel be/w client and server
 vpn uses encryption algorithm
 RSA AES- cipher text
-clr txt --> cipher = encryption
-ciphert --> clear txt = decryption
+clr txt -> cipher = encryption
+ciphert -> clear txt = decryption
 Symmetric encrrypt --> Single Key ( unlock and lock using single key )
 Asymmetric encrrypt --> Public/Private Key {safest algorithm}
 wireshark is a packet analyser tool.
