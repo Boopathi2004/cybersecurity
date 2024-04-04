@@ -1,0 +1,22 @@
+#useful commands
+cmd -whwre: shows location.
+    -/../: going back to directory
+mkdir- make directory(new folder)
+ls- list files/ directories
+move- mv
+cp - copy
+cd- change directory
+ python -m http.server 80
+rm- remove (ps) / del(cmd)
+lo-network interface-loopback
+eth0-ethernet0
+wlan0-wireletun0-tunnel0
+vpn- encrypt the connection b/w client and server
+vp creates tunnel be/w client and server
+vpn uses encryption algorithm
+RSA AES- cipher text
+clr txt --> cipher = encryption
+ciphert --> clear txt = decryption
+Symmetric encrrypt --> Single Key ( unlock and lock using single key )
+Asymmetric encrrypt --> Public/Private Key {safest algorithm}
+wireshark is a packet analyser tool.
