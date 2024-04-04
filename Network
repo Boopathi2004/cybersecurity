@@ -42,3 +42,18 @@ step 1;
 powershell
 step 2;
 ipconfig
+
+
+TOE target of evaluation
+IPv4-32b-DEC(0-9)
+IPv6-128b-HEX(0-9)
+127.0.0.1-low
+/24 CIDR
+system ip = ipconfig
+
+ls in cmd-dir
+ls in ps
+
+ cd.. is used to go back
+
+
