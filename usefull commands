@@ -127,3 +127,30 @@ academy ---> service ssh status
 
 x86_64 --> 64 bit
 
+ssh --> use for remotely process
+
+live cyber threat map | check point
+five phase of hacking
+>reconnaissance
+>scanning
+>gaining access
+
+NIST CYBERSECURITY FRAMEWORK incidence response
+>identify
+>protect
+>detect
+>respond
+>recover
+
+HIDS-->host based intrusion detection system
+NIDS-->network based intrusion detection system
+
+cryptography Attacks
+>chosen plaintext attack
+>chosen ciphertext attack
+>known plaintext attack
+>meet in the middle attack
+>replay attacks
+>chiper only attacks
+ 
+
